@@ -52,7 +52,7 @@ const Navbar: React.FC = () => {
         <span
           className={`text-xl font-bold tracking-tight ${isScrolled ? "text-white" : "text-gray-900"}`}
         >
-          ZADIKI.
+          ZADIKI. Hassan
         </span>
         <div
           className={`hidden md:flex gap-8 text-sm font-medium ${isScrolled ? "text-gray-300" : "text-gray-600"}`}
