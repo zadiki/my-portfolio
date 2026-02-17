@@ -274,7 +274,7 @@ const Hero: React.FC = () => (
         <div className="relative">
           <div className="absolute -inset-4 bg-gradient-to-tr from-blue-600 to-blue-400 rounded-3xl blur-2xl opacity-20 animate-pulse"></div>
           <img
-            src="https://picsum.photos/seed/zadiki/600/800"
+            src="/img/profile.jpeg"
             alt="Zadiki Ochola Hassan"
             className="relative rounded-3xl shadow-2xl object-cover grayscale hover:grayscale-0 transition-all duration-700 w-full aspect-[4/5]"
           />
